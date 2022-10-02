@@ -1,0 +1,3 @@
+(executable
+ (name bogue_demo)
+ (libraries bogue))
